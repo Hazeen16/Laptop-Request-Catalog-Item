@@ -20,4 +20,4 @@ Servicenow Instance Link: https://dev310386.service-now.com/login.do?user_name=a
 
 # Demo Video
 
-Demi Videi Link:
+Demo Video Link:
